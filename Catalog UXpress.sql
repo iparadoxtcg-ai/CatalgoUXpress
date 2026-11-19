@@ -1,4 +1,3 @@
--- Active: 1792076078144@@127.0.0.1@3306@catalog_uxpress@almacen3a
 -- CREACION DE LA BD 
 CREATE DATABASE catalog_uxpress
 
